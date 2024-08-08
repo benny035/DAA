@@ -13,3 +13,5 @@ https://github.com/benny035/DAA/blob/main/week2(Q3)
 https://github.com/benny035/DAA/blob/main/bubble%20sort
 
 https://github.com/benny035/DAA/blob/main/selection%20sort
+
+https://github.com/benny035/DAA/blob/main/binary%20search
