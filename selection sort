@@ -1,0 +1,10 @@
+public class SimplePendulum {
+    public static void main(String[] args) {
+        float length = 1.5f; // Length of the pendulum rod in meters
+        float gravity = 9.8f; // Acceleration due to gravity in m/s^2
+
+        float period = (float) (2 * Math.PI * Math.sqrt(length / gravity));
+        
+        System.out.println("The period of the simple pendulum with length " + length + "m is: " + period + "s");
+    }
+}
